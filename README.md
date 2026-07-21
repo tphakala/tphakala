@@ -5,3 +5,5 @@ I've spent over 20 years working on data center systems, most of that time deep 
 On my own time I build open source software for wildlife acoustics. My main project is [BirdNET-Go](https://github.com/tphakala/birdnet-go), a self-hosted realtime soundscape analyzer that runs 24/7 on a Raspberry Pi. A whole ecosystem has grown around it: pure-Go audio codecs for Opus, FLAC and AAC, SIMD-accelerated resampling and spectrogram libraries, ONNX and TFLite inference tooling, and some DIY microphone hardware for field recording.
 
 I'm also an amateur wildlife photographer with a special fondness for owls. The photography and the software feed the same interest: paying closer attention to the wildlife around us.
+
+If you find my open source work valuable, please consider sponsoring me through [GitHub Sponsors](https://github.com/sponsors/tphakala).
